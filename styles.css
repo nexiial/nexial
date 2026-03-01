@@ -34,11 +34,11 @@ body {
 }
 
 .logo img {
-    width: 700px;       /* tamaño del logo, ajusta si quieres más grande/pequeño */
-    max-width: 80%;     /* se adapta en móviles */
+    width: 180px;      /* tamaño máximo que quieres */
+    max-width: 80%;    /* se adapta a pantallas pequeñas */
     height: auto;
     display: block;
-    margin: 0 auto;     /* centra la imagen */
+    margin: 0 auto;    /* centra horizontalmente */
 }
 
 /* ================= NUEVOS BOTONES HERO ================= */
@@ -201,3 +201,4 @@ footer {
         grid-template-columns: 200px;
     }
 }
+
