@@ -35,7 +35,7 @@ body {
 
 .logo {
     color: #22c55e;
-    font-size: 90px;
+    font-size: 60px;
     letter-spacing: 2px;
 }
 
@@ -199,6 +199,7 @@ footer {
         grid-template-columns: 200px;
     }
 }
+
 
 
 
