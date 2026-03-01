@@ -33,12 +33,10 @@ body {
     max-width: 800px;
 }
 
-.logo img {
-    width: 180px;      /* tamaño máximo que quieres */
-    max-width: 80%;    /* se adapta a pantallas pequeñas */
-    height: auto;
-    display: block;
-    margin: 0 auto;    /* centra horizontalmente */
+.logo {
+    color: #22c55e;
+    font-size: 60px;
+    letter-spacing: 2px;
 }
 
 /* ================= NUEVOS BOTONES HERO ================= */
@@ -201,4 +199,5 @@ footer {
         grid-template-columns: 200px;
     }
 }
+
 
